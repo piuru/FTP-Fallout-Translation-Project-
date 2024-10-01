@@ -1,22 +1,22 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 #
 # Text labels and messages used by EDITOR.C
 #
 # (These MUST match "text message" enumeration on the top of EDITOR.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 #
 #
-{100}{}{DONE}
-{101}{}{OPTIONS}
-{102}{}{CANCEL}
-{103}{}{PRINT}
-{104}{}{AGE}
+{100}{}{SELESAI}
+{101}{}{PILIHAN}
+{102}{}{BATAL}
+{103}{}{CETAK}
+{104}{}{USIA}
 {105}{}{SEX}
-{106}{}{NAME}
-{107}{}{MALE}
-{108}{}{FEMALE}
+{106}{}{NAMA}
+{107}{}{LAKI-LAKI}
+{108}{}{PEREMPUAN}
 {109}{}{PERKS}
 {110}{}{KARMA}
 {111}{}{KILLS}
@@ -26,51 +26,51 @@
 {115}{}{Next Level:}
 {116}{}{CHAR POINTS}
 {117}{}{SKILLS}
-{118}{}{You must use all character points} # 1
-{119}{}{before starting the game!}         # 2
+{118}{}{Kau harus gunakan semua character points} # 1
+{119}{}{sebelum memulai game!}         # 2
 #
 {120}{}{Character Points}
-{121}{}{Amount of free character points that can be added to one of the basic stats.}
+{121}{}{Banyaknya character points yang bisa kau tambahkan ke salah satu basic stats.}
 {122}{}{Next Level}
-{123}{}{The amount of experience points needed to move up to the next level.}
+{123}{}{Banyaknya Exp yang dibutuhkan untuk naik level.}
 {124}{}{Perks}
 {125}{}{Karma}
 {126}{}{Kills}
-{127}{}{Perks add additional abilities. Every third experience level, you can choose one perk.}
-{128}{}{These are the effects of the choices you make during the game.}
-{129}{}{A counter that keeps track of the type and numbers of creatures you have slaughtered, or have seen killed in your presence.}
+{127}{}{Perks memberikan keahlian tambahan. Setiap tiga kali naik level, kau bisa memilih satu perk.}
+{128}{}{Ini adalah dampak dari perbuatan yang kau lakukan selama bermain.}
+{129}{}{Penghitung yang mencatat tipe dan jumlah makhluk yang kau bunuh, atau yang kau temukan sudah mati.}
 {130}{}{Skill Points}
-{131}{}{Use free skill points to increase the level of a skill.}
+{131}{}{Gunakan skill points yang ada untuk meningkatkan level skill.}
 #
-{132}{}{At maximum level.}        # 1
-{133}{}{Unable to increment it.}  # 2
-{134}{}{At minimum level.}        # 1
-{135}{}{Unable to decrement it.}  # 2
-{136}{}{No free skill points available.}
+{132}{}{Sudah level maximum.}        # 1
+{133}{}{Tidak bisa ditingkatkan.}  # 2
+{134}{}{Sudah level minimum.}        # 1
+{135}{}{Tidak bisa diturunkan.}  # 2
+{136}{}{Tidak ada skill points yang tersisa.}
 {137}{}{Base:}
 {138}{}{TAG SKILLS}
 {139}{}{OPTIONAL TRAITS}
-{140}{}{You already have the maximum of} # 1
-{141}{}{three tag skills!}               # 2
-{142}{}{You must select all tag skills}  # 1
-{143}{}{before starting the game!}       # 2
+{140}{}{Kau sudah punya maximum} # 1
+{141}{}{tiga tag skills!}               # 2
+{142}{}{Kau harus memilih semua tag skills}  # 1
+{143}{}{sebelum mulai bermain!}       # 2
 {144}{}{Tag Skills}
-{145}{}{Tag skills are skills your character specializes in.  Each tag skill gains +20%, and increases twice as fast.  You must pick three tag skills.}
+{145}{}{Tag skills adalah skills yang dikuasi karaktermu.  Setiap tag skill memperoleh +20%, dan meningkat dua kali lebih cepat.  Kau harus memilih tiga tag skills.}
 {146}{}{Optional Traits}
-{147}{}{Optional traits describe your character in more detail.  All traits will have positive and negative effects.  You may choose up to two traits during creation.}
-{148}{}{You already have the maximum of} # 1
-{149}{}{two traits!}                     # 2
+{147}{}{Optional traits menggambarkan karaktermu secara detail.  Semua traits akan punya efek positif dan negatif.  Kau hanya boleh memilih sampai dua traits saat pembuatan karakter.}
+{148}{}{Kau sudah punya maximum} # 1
+{149}{}{dua traits!}                     # 2
 {150}{}{Skills}
-{151}{}{Skills are learned knowledge.  Skills increase by experience, or during the course of the game by special events.  The higher the skill level, the better you are at that skill.}
+{151}{}{Skills adalah ilmu yang dipelajari.  Skills meningkat karena pengalaman, atau selama jalannya permainan saat ada kejadian unik.  Semakin tinggi skill level, maka kau semakin mahir dalam skill itu.}
 #
-{152}{}{PICK A PERK}
-{153}{}{PICK A NEW TRAIT}
-{154}{}{LOSE A TRAIT}
-{155}{}{PICK A NEW TAG SKILL}
+{152}{}{AMBIL PERK}
+{153}{}{AMBIL TRAIT BARU}
+{154}{}{BUANG TRAIT}
+{155}{}{AMBIL TAG SKILL BARU}
 {156}{}{TRAITS}
 #
-{157}{}{All stats must be between 1 and 10} # 1
-{158}{}{before starting the game!}          # 2
+{157}{}{Semua stats harus antara 1 dan 10} # 1
+{158}{}{sebelum memulai game!}          # 2
 
 
 #
@@ -114,53 +114,53 @@
 # Damage info texts
 #
 # Poisoned
-{400}{}{Your character has been poisoned.  Poison will do damage over a period of time, until cured or it passes from your system.}
+{400}{}{Karaktermu terkena racun.  Racun akan menimbulkan kerusakan dalam jangka waktu tertentu, hingga diobati atau keluar dari sistem tubuh.}
 # Radiation
-{401}{}{Your character is suffering from a significant amount of Radiation poisoning.  The more radiation damage, the more deadly the effect.}
+{401}{}{Karaktermu menderita karena teracuni radiasi dalam jumlah yang besar.  Semakin besar radiasinya, efeknya semakin mematikan.}
 # Eye Damage
-{402}{}{This means your character has been seriously hit in one or both of your eyes.  This affects your Perception.}
+{402}{}{Ini artinya karaktermu terkena luka yang serius di satu atau kedua matanya.  Ini mempengaruhi Perception.}
 # Crippled right arm
-{403}{}{The right arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons.}
+{403}{}{Lengan kanan cedera parah, dan tidak bisa berfungsi dengan baik.  Jika satu lengan cedera, kau tidak bisa memakai senjata dua-tangan.  Jika kedua lengan yang cedera, maka kau tidak bisa menyerang dengan senjata.}
 # Crippled left arm
-{404}{}{Your character's left arm has been severely hurt, and cannot function well.  If one arm has been crippled, you cannot use two-handed weapons.  If both arms have been crippled, you cannot attack with weapons.}
+{404}{}{Lengan kiri karaktermu cedera parah, dan tidak bisa berfungsi dengan baik.  Jika satu lengan cedera, kau tidak bisa memakai senjata dua-tangan.  Jika kedua lengan yang cedera, maka kau tidak bisa menyerang dengan senjata.}
 # Crippled right leg
-{405}{}{Your character has a crippled right leg.}
+{405}{}{Karaktermu kaki kanannya sudah lumpuh.}
 # Crippled left leg
-{406}{}{Your character has a crippled left leg.}
+{406}{}{Karaktermu kaki kirinya sudah lumpuh.}
 
 # Month strings
-{500}{}{January}
-{501}{}{February}
-{502}{}{March}
+{500}{}{Januari}
+{501}{}{Februari}
+{502}{}{Maret}
 {503}{}{April}
-{504}{}{May}
-{505}{}{June}
-{506}{}{July}
-{507}{}{August}
+{504}{}{Mei}
+{505}{}{Juni}
+{506}{}{Juli}
+{507}{}{Agustus}
 {508}{}{September}
-{509}{}{October}
+{509}{}{Oktober}
 {510}{}{November}
-{511}{}{December}
+{511}{}{Desember}
 
 #
 # Option menu text
 #
 {600}{}{SAVE}
 {601}{}{LOAD}
-{602}{}{PRINT TO FILE}
-{603}{}{ERASE}
-{604}{}{DONE}
-{605}{}{Are you sure you want to erase}      # line 1
-{606}{}{the current character?}                 # line 2
-{607}{}{ was successfully saved.}
-{608}{}{ was successfully loaded.}
-{609}{}{already exists.}
-{610}{}{Do you wish to overwrite?}
-{611}{}{Error saving }
-{612}{}{Error loading }
-{613}{}{Character file invalid.}
-{614}{}{Character data invalid.}
-{615}{}{Error reading file list!}
+{602}{}{PRINT KE FILE}
+{603}{}{HAPUS}
+{604}{}{SELESAI}
+{605}{}{Kau yakin mau menghapus}      # line 1
+{606}{}{karakter ini?}                 # line 2
+{607}{}{ berhasil disimpan.}
+{608}{}{ berhasil dimuat.}
+{609}{}{sudah ada.}
+{610}{}{Mau menimpa file?}
+{611}{}{Error saat menyimpan }
+{612}{}{Error saat memuat }
+{613}{}{File karakter tidak valid.}
+{614}{}{Data karakter tidak valid.}
+{615}{}{Error saat membaca daftar file!}
 {616}{}{PRINT}
 {617}{}{PLAYER}
 {618}{}{BLANK.GCD}
@@ -244,8 +244,8 @@
 #
 # Karma description strings
 #
-{1100}{}{This is a ranged stat that represents your general reputation. The higher the number, the better known and respected you are. If your rep is negative, you are hated by some for your evil actions.}
-{1101}{}{You have killed a large number of people. This is generally not a good thing to get known for. People from the wrong side of the track will like you a little more, however.}
+{1100}{}{Ini adalah a ranged stat yang menunjukkan reputasimu. Semakin tinggi nilainya, the better known and respected you are. If your rep is negative, you are hated by some for your evil actions.}
+{1101}{}{Kau sudah membunuh banyak sekali orang. This is generally not a good thing to get known for. People from the wrong side of the track will like you a little more, however.}
 {1102}{}{Your actions have revealed you to be a champion of the people. You war against evil and villainy is widely known. Honorable people will respect you better.}
 {1103}{}{You have killed children, the youth of the wasteland. This is considered to be a really bad thing. You evil, evil person.}
 {1104}{}{You thoroughly enjoy Nuka-Cola, the cola of the post-nuclear world.}

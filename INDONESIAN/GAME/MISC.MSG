@@ -3,7 +3,7 @@
 #
 # Defined in game.h
 #
-{0}{}{Are you sure you want to quit?}
+{0}{}{Apa kau yakin ingin keluar?}
 {1}{}{Demo version}
 {2}{}{Default character will be used.}
 {3}{}{Saved screenshot.}
@@ -13,10 +13,10 @@
 {7}{}{Pipboy not available in combat!}
 {8}{}{Error saving screenshot.}
 {9}{}{INTRO}
-{10}{}{NEW GAME}
-{11}{}{LOAD GAME}
-{12}{}{CREDITS}
-{13}{}{EXIT}
+{10}{}{BUAT BARU}
+{11}{}{MUAT GAME}
+{12}{}{KREDIT}
+{13}{}{KELUAR}
 {14}{}{Copyright(c) 1997 Interplay Productions.  All rights reserved.}
 {15}{}{Action Points}
 {16}{}{Hit Points}
@@ -37,30 +37,30 @@
 {1004}{}{You are hemorrhaging violently and continuously. The vomitus is stained red from your blood. Your skin is falling off of your bones.}
 {1005}{}{There is bleeding from your intestines and you have severe diarrhea. You feel bloated and are in intense agony.}
 {1006}{}{You have died from radiation sickness.}
-{1007}{}{You have received a large dose of radiation.}
-{1008}{}{The geiger counter is clicking.}
-{1009}{}{The geiger counter is clicking wildly.}
+{1007}{}{Kau menerima dosis radiasi yang sangat besar.}
+{1008}{}{Geiger counter-nya berbunyi.}
+{1009}{}{Geiger counter-nya berbunyi tidak karuan.}
 #
 # Message used in actions.c
 #
-{2000}{}{You cannot get there.}
-{2001}{}{The lock is jammed.}
+{2000}{}{Kau tidak bisa kesana.}
+{2001}{}{Kunci gemboknya macet.}
 #
 # poison messages from critter.c
 #
-{3000}{}{You have been poisoned!}
-{3001}{}{You take damage from poison.}
+{3000}{}{Kau sudah kena racun!}
+{3001}{}{Kau merasakan efek dari racun.}
 #
 # from queue.c
 #
-{4000}{}{Due to your inept handling, the explosive detonates prematurely.}
+{4000}{}{Karna penangananmu yang ceroboh, bom itu meledak sebelum waktunya.}
 #
 # from combatai.c
 #
-{5000}{}{uses}
-{5001}{}{is out of ammo for the}
-{5002}{}{reloads the}
+{5000}{}{menggunakan}
+{5001}{}{peluru sudah habis untuk}
+{5002}{}{mengisi ulang}
 #
 # from gdialog.c - new tell me about stuff
 #
-{6000}{}{Ask about what?}
+{6000}{}{Mau tanya apa?}
