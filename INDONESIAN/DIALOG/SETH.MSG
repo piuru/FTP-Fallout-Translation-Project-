@@ -12,28 +12,28 @@
 {107}{}{I want all of your money!}
 {108}{}{I'd like some information.}
 {109}{}{Bloop?}
-{110}{}{Good day. I am called Seth. How can I help you?}
-{111}{}{I'd like some information.}
+{110}{}{Hai. Panggil aku Seth. Apa yang bisa ku bantu?}
+{111}{}{Aku ingin beberapa informasi.}
 {112}{}{Wub-wub!}
-{113}{}{Information? What do you want to know about?}
-{114}{}{What can I do for you?}
-{115}{}{I want to know about the Radscorpions.}
-{116}{}{I want to know about the raiders.}
-{117}{}{I want to know about this place.}
+{113}{}{Informasi? Kau mau tau soal apa?}
+{114}{}{Ada yang bisa ku bantu?}
+{115}{}{Aku ingin tau soal Radscorpion.}
+{116}{}{Aku ingin tau soal para raider.}
+{117}{}{Aku ingin tau soal tempat ini.}
 {118}{}{Take me to the Radscorpion caves.}
 {119}{}{Cave!}
-{120}{}{Nothing else, thanks.}
+{120}{}{Itu saja, terimakasih.}
 {121}{}{What do you want now?}
-{122}{}{Those damn Radscorpions have been after our Brahmin since we moved here.
- Not a week goes by that someone doesn't get poisoned trying to keep them out of the
- pens. Last week they took my brother Jarvis. Razlo, our doctor, is looking for an
- antidote as quickly as he can. Hey, if you have the means to help us, why don't
- you talk to our leader, Aradesh.}
+{122}{}{Para Radscorpion itu mengincar Brahmin kami sejak kami pindah kesini.
+ Tak ada seminggu tanpa seseorang terkena racunnya karena mencoba untuk melindungi
+ ternak. Minggu lalu mereka membawa saudaraku Jarvis. Razlo, dokter kami, sedang mencari
+ penawarnya secepat yang dia bisa. Hey, jika kau berniat menolong kami, cobalah
+ bicara dengan pemimpin kami, Aradesh.}
 {123}{}{There are several groups of raiders. I organize guards like Ian
  to help fight them off. There is one band to the southeast of here. Watch out for them.}
-{124}{}{Shady Sands is a peaceful community. We have our own irrigation
- system, so we can grow our own food. If we were not plagued
- with raiders and Radscorpions, we would have no problems.}
+{124}{}{Shady Sands adalah komunitas yang damai. Kami punya sistem irigasi
+ sendiri, jadi bisa menanam makanan. Jika saja para raider
+ dan Radscorpion tidak mengganggu, maka takkan ada masalah.}
 {125}{}{Are you sure you want me to give you directions to the Radscorpion caves?  I can't go, but I can show you the way.}
 {126}{}{Yes.}
 {127}{}{No.}
@@ -118,9 +118,9 @@
  she must learn to temper her ways.}
 {1107}{}{He is the leader of our community, and a true hero.  You can always
  find him at work in the communal hall.}
-{1108}{}{That is me. I work with Aradesh to make sure everyone is safe.}
-{1109}{}{Our Doctor.  See him if you are hurt.}
-{1110}{}{You're standing in it.}
+{1108}{}{Itu aku. I bekerja dengan Aradesh untuk memastikan semua orang aman.}
+{1109}{}{Dokter kami.  Cari dia jika kau terluka.}
+{1110}{}{Kau sedang berdiri di atasnya.}
 {1111}{}{Nasty creatures with a deadly venom.}
 {1112}{}{Nasty creatures with a deadly venom.}
 {1113}{}{Nasty creatures with a deadly venom.}

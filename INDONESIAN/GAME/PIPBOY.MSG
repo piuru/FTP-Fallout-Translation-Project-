@@ -1,11 +1,11 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 #
 # Text labels and messages used in PIPBOY.C
 #
 # (These MUST match "text message" enumeration on the top of PIPBOY.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 #
 # Special holiday dates
@@ -16,47 +16,47 @@
 {103}{}{Happy Ship Day!}            # Shipping day!
 {104}{}{Happy Independence Day!}    # Independence day
 {105}{}{Happy Halloween!}           # Halloween
-{106}{}{Happy Thanksgiving Day!}    # Thanksgiving
+{106}{}{Happy Thatksgiving Day!}    # Thatksgiving
 {107}{}{Merry Christmas!}           # X-mas
 
 #
 # System messages
 #
-{200}{}{MORE}
-{201}{}{BACK}
+{200}{}{LANJUT}
+{201}{}{KEMBALI}
 {202}{}{STATUS}
-{203}{}{No current tasks.}
-{204}{}{CLUES}  # clues gone
-{205}{}{AUTOMAPS}
-{206}{}{VIDEO ARCHIVES}
+{203}{}{Tidak ada tugas untuk saat ini.}
+{204}{}{PETUNJUK}  # clues gone
+{205}{}{PETA OTOMATIS}
+{206}{}{ARSIP VIDEO}
 {207}{}{DATA}
 {208}{}{}
 {209}{}{}
 {210}{}{Status}
 {211}{}{DATA}
-{212}{}{of}
-{213}{}{Page}
-{214}{}{DONE}
-{215}{}{You can not rest at this location!}
+{212}{}{dari}
+{213}{}{Halaman}
+{214}{}{SELESAI}
+{215}{}{Kau tidak bisa istirahat di tempat ini!}
 
 #
 # Alarm clock
 #
-{300}{}{ALARM CLOCK}
+{300}{}{ALARM}
 {301}{}{Hit Points}
-{302}{}{Rest for ten minutes}
-{303}{}{Rest for thirty minutes}
-{304}{}{Rest for an hour}
-{305}{}{Rest for two hours}
-{306}{}{Rest for three hours}
-{307}{}{Rest for four hours}
-{308}{}{Rest for five hours}
-{309}{}{Rest for six hours}
-{310}{}{Rest until morning (0600)}
-{311}{}{Rest until noon (1200)}
-{312}{}{Rest until evening (1800)}
-{313}{}{Rest until midnight (0000)}
-{314}{}{Rest until healed}
+{302}{}{Istirahat untuk sepuluh menit}
+{303}{}{Istirahat untuk tiga puluh menit}
+{304}{}{Istirahat untuk satu jam}
+{305}{}{Istirahat untuk dua jam}
+{306}{}{Istirahat untuk tiga jam}
+{307}{}{Istirahat untuk empat jam}
+{308}{}{Istirahat untuk lima jam}
+{309}{}{Istirahat untuk enam jam}
+{310}{}{Istirahat sampai pagi (0600)}
+{311}{}{Istirahat sampai siang (1200)}
+{312}{}{Istirahat sampai malam (1800)}
+{313}{}{Istirahat sampai tengah malam (0000)}
+{314}{}{Istirahat sampai sembuh}
 
 #
 # Holodisk titles
@@ -105,9 +105,9 @@
 #
 {600}{}{Status}
 {601}{}{Clues}  # Clues gone
-{602}{}{Automaps}
-{603}{}{Archives}
-{604}{}{Alarm Clock}
+{602}{}{Peta otomatis}
+{603}{}{Arsif}
+{604}{}{Alarm}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
 {606}{}{Welcome to the Rob Co Pipboy 2000.}
 {607}{}{So long.}
@@ -125,7 +125,7 @@
 {701}{}{Calm rebel faction.}
 {702}{}{Destroy the Mutant leader.}
 {703}{}{Destroy the source of the Mutants.}
-{704}{}{Find the Water Chip.}
+{704}{}{Temukan Water Chip.}
 {705}{}{Find the Water Thief.}
 #
 {710}{}{Buried Vault}
@@ -153,9 +153,9 @@
 {760}{}{Hub}
 {761}{}{Destroy Deathclaw.}
 {762}{}{Dispose of Jain.}
-{763}{}{Dispose of merchant.}
+{763}{}{Dispose of merchatt.}
 {764}{}{Find the missing caravans.}
-{765}{}{Steal necklace from the Merchants.}
+{765}{}{Steal necklace from the Merchatts.}
 #
 {770}{}{Brotherhood}
 {771}{}{Become an Initiate.}
@@ -184,26 +184,26 @@
 #
 
 # *** FEV Experiment Disk ***
-{1000}{}{• Log Date March 21, 2075:}
+{1000}{}{ï¿½ Log Date March 21, 2075:}
 {1001}{}{Major Barnett has ordered experiments with batch}
 {1002}{}{10-011 of  panimmunity virion, which has been }
 {1003}{}{renamed FEV, for Forced Evolutionary Virus. His}
 {1004}{}{main concern is with the side effects of the }
-{1005}{}{quad-helix structure rather than its main effect}
+{1005}{}{quad-helix structure rather that its main effect}
 {1006}{}{of replicative stability. He believes the new }
 {1007}{}{structure is the next logical step for mammalian}
 {1008}{}{nuclei. Experiments with single-celled organisms}
 {1009}{}{is a great success. While their basal metabolism}
-{1010}{}{appears unchanged, their immunity to infection }
+{1010}{}{appears unchatged, their immunity to infection }
 {1011}{}{and radiation is exceeding all earlier expectations.}
 {1012}{}{Addendum: choroplasts seem unaffected by the virion.}
 {1013}{}{Further experiments on plant cells have been }
 {1014}{}{canceled by order of Major Barnett.}
 {1015}{}{**END-PAR**}
 # -
-{1016}{}{• Log Date May 9, 2075}
+{1016}{}{ï¿½ Log Date May 9, 2075}
 {1017}{}{We infected several species of flatworm with FEV. }
-{1018}{}{Within hours the worms had increased in size by }
+{1018}{}{Within jam the worms had increased in size by }
 {1019}{}{28%, and 39 separate viral contagions were resisted}
 {1020}{}{by the population. Each sample was allowed to }
 {1021}{}{continue for several generations, and the new DNA }
@@ -214,21 +214,21 @@
 {1026}{}{these experiments until further notice.}
 {1027}{}{**END-PAR**}
 # -
-{1028}{}{• Log Date June 30, 2075}
+{1028}{}{ï¿½ Log Date June 30, 2075}
 {1029}{}{Several lab strains of white mice have been infected}
 {1030}{}{successfully with FEV. Again, an increase in size }
-{1031}{}{was noted within hours, and after 9 days all mice }
-{1032}{}{had stabilized at 31% larger than the control group. }
+{1031}{}{was noted within jam, and after 9 days all mice }
+{1032}{}{had stabilized at 31% larger that the control group. }
 {1033}{}{Dissection revealed the most increase in size in }
 {1034}{}{striated muscle tissue and certain internal organs, }
 {1035}{}{such as the liver, heart, and kidneys. In a }
 {1036}{}{surprising finding, the infected mice were found to}
-{1037}{}{run mazes in less than half of the time of the }
+{1037}{}{run mazes in less that half of the time of the }
 {1038}{}{control group. More testing will be needed to }
 {1039}{}{confirm this finding as significant.}
 {1040}{}{**END-PAR**}
 # -
-{1041}{}{• Log Date November 9, 2075}
+{1041}{}{ï¿½ Log Date November 9, 2075}
 {1042}{}{We have infected 218 rabbits with FEV. Half of }
 {1043}{}{the subjects were implanted with electrodes to }
 {1044}{}{monitor EEG activity before and after the }
@@ -242,7 +242,7 @@
 {1052}{}{in the limbic system and frontal cortex.}
 {1053}{}{**END-PAR**}
 # -
-{1054}{}{• Log Date January 12, 2076}
+{1054}{}{ï¿½ Log Date January 12, 2076}
 {1055}{}{With batch 11-011, we have improved the mitotic }
 {1056}{}{cycle efficiency by 43%. We have infected 53 }
 {1057}{}{raccoons with the new strain. In addition to the}
@@ -255,7 +255,7 @@
 {1064}{}{Two pairs were unaccounted for.}
 {1065}{}{**END-PAR**}
 # -
-{1066}{}{• Log Date May 13, 2076}
+{1066}{}{ï¿½ Log Date May 13, 2076}
 {1067}{}{We have spliced several new gene sequences, supplied}
 {1068}{}{by Major Barnett's advisory team, into FEV. With }
 {1069}{}{batch 11-101a, we infected 23 dogs of both pure and }
@@ -267,7 +267,7 @@
 {1075}{}{subjects were terminated after 14 weeks of study.}
 {1076}{}{**END-PAR**}
 # -
-{1077}{}{• Log Date October 4, 2076}
+{1077}{}{ï¿½ Log Date October 4, 2076}
 {1078}{}{The crossover has been completed and 15 chimpanzees}
 {1079}{}{were infected with batch 11-111. Growth and immunity}
 {1080}{}{levels are unprecedented. Attempts to induce cancers}
@@ -278,7 +278,7 @@
 {1085}{}{remaining subjects terminated.}
 {1086}{}{**END-PAR**}
 # -
-{1087}{}{• Log Date January 7, 2077}
+{1087}{}{ï¿½ Log Date January 7, 2077}
 {1088}{}{Major Barnett has ordered transfer of all FEV }
 {1089}{}{research  to the Mariposa Military Base. He }
 {1090}{}{plans to continue the project experiments on }
@@ -332,7 +332,7 @@
 {3032}{}{ The fact that I can smell Soto's burning flesh }
 {3033}{}{where his arm was taken off means that my power }
 {3034}{}{armor is no longer air tight, so I'm sucking up }
-{3035}{}{a lot more rads than I had planned on. I'm leaking}
+{3035}{}{a lot more rads that I had planned on. I'm leaking}
 {3036}{}{hydraulics at an alarming rate. We need to get far}
 {3037}{}{enough away from this place before my armor dies. }
 {3038}{}{**END-PAR**}
@@ -375,7 +375,7 @@
 {4017}{}{structure begins almost immediately. Cytokinesis }
 {4018}{}{is prevented by controlling the disposition of the}
 {4019}{}{kinetochore fibers during anaphase. The entire }
-{4020}{}{mitotic cycle lasts approximately 2 hours, although}
+{4020}{}{mitotic cycle lasts approximately 2 jam, although}
 {4021}{}{phenotypical expression of the new structure may }
 {4022}{}{take days or weeks to become apparent.}
 {4023}{}{**END-PAR**}
@@ -386,7 +386,7 @@
 {4027}{}{base pairing during replication due to multiplicity}
 {4028}{}{of the base sequence. Radiation-exposed tissue }
 {4029}{}{showed no mutation in the base sequence and protein}
-{4030}{}{synthesis mechanisms in the ribosomes were unimpaired.}
+{4030}{}{synthesis mechatisms in the ribosomes were unimpaired.}
 {4031}{}{**END-PAR**}
 # -
 {4032}{}{Over 80% of the samples tissue contained quad-helix}
@@ -414,14 +414,14 @@
 
 
 # *** Vree's Experiment Disk ***
-{6000}{}{• Initial Observations}
+{6000}{}{ï¿½ Initial Observations}
 {6001}{}{**END-PAR**}
 # -
 {6002}{}{This is truly amazing. Some of the Knights on a patrolling}
 {6003}{}{expedition came across an unusual creature. This creature}
 {6004}{}{appears to be humanoid, and quite possibly was once of a}
 {6005}{}{human state. However, there are many differences in the }
-{6006}{}{structure of this creature than that of normal humans.}
+{6006}{}{structure of this creature that that of normal humans.}
 {6007}{}{**END-PAR**}
 # -
 {6008}{}{In the initial investigation of this creature, it is }
@@ -430,7 +430,7 @@
 {6011}{}{place, I am taking down the statistics of this subject.}
 {6012}{}{**END-PAR**}
 # -
-{6013}{}{• Statistics of Subject A:}
+{6013}{}{ï¿½ Statistics of Subject A:}
 {6014}{}{**END-PAR**}
 # -
 {6015}{}{Height: 3.2 meters}
@@ -449,7 +449,7 @@
 {6028}{}{**END-PAR**}
 {6029}{}{Cellular Structure:}
 {6030}{}{    Cells undergo cellular division at an increased rate.}
-{6031}{}{    Mitosis occurs at a rate 15% quicker than that of }
+{6031}{}{    Mitosis occurs at a rate 15% quicker that that of }
 {6032}{}{    normal humans.}
 {6033}{}{    Cellular structure appears to be highly similar to}
 {6034}{}{    humans.}
@@ -464,7 +464,7 @@
 {6043}{}{    to allow for a greater transmission of signals.}
 {6044}{}{**END-PAR**}
 # -
-{6045}{}{• Initial Hypothesis}
+{6045}{}{ï¿½ Initial Hypothesis}
 {6046}{}{**END-PAR**}
 # -
 {6047}{}{Based on the increased size of the neural transmitters}
@@ -477,7 +477,7 @@
 {6054}{}{to determine possible cause of death.}
 {6055}{}{**END-PAR**}
 # -
-{6056}{}{• Results from tests conducted upon Subject A:}
+{6056}{}{ï¿½ Results from tests conducted upon Subject A:}
 {6057}{}{**END-PAR**}
 # -
 {6058}{}{Visual Inspection:}
@@ -485,7 +485,7 @@
 {6060}{}{    bullet.}
 {6061}{}{    1.2 cm lacerations upon the calf of the right leg }
 {6062}{}{    appear to have been made by teeth. Will conduct}
-{6063}{}{    test for possible Rabies.}
+{6063}{}{    Istirahat untuk possible Rabies.}
 {6064}{}{    Skin dried out and flaking. Possible exposure.}
 {6065}{}{**END-PAR**}
 # -
@@ -500,7 +500,7 @@
 {6074}{}{    Forced Evolutionary Virus II: Severe overdose}
 {6075}{}{**END-PAR**}
 # -
-{6076}{}{• Hypothesis}
+{6076}{}{ï¿½ Hypothesis}
 {6077}{}{**END-PAR**}
 # -
 {6078}{}{Based on my observations, I would hypothesize that the }
@@ -516,7 +516,7 @@
 {6087}{}{Research into this virus has lead to many interesting }
 {6088}{}{discoveries. The test subject has gained many of its }
 {6089}{}{mutations from the overdose of the virus. This would }
-{6090}{}{account for the enhanced muscle and bone structure. }
+{6090}{}{account for the enhatced muscle and bone structure. }
 {6091}{}{Additionally, the recessive genes which are commonly }
 {6092}{}{found in humans have been manipulated in such a way as }
 {6093}{}{to bring about the best possible combination. While}
@@ -529,7 +529,7 @@
 {6100}{}{Intellect is decreased by this strain by 30%.}
 {6101}{}{**END-PAR**}
 # -
-{6102}{}{• Conclusions}
+{6102}{}{ï¿½ Conclusions}
 {6103}{}{**END-PAR**}
 # -
 {6104}{}{Based on this information, I would extrapolate that we }
@@ -549,7 +549,7 @@
 {7003}{}{the revolution, I respected his convictions. He stayed}
 {7004}{}{behind, to help those who were disabled and wounded,}
 {7005}{}{even the scis. He put the well being of myself and my}
-{7006}{}{mother into the hands of his best friend, and ordered}
+{7006}{}{mother into the hatds of his best friend, and ordered}
 {7007}{}{us into the desert with the other rebels.}
 {7008}{}{**END-PAR**}
 # -
@@ -610,7 +610,7 @@
 {8018}{}{his perimeter patrol. A few of our other scouts reported}
 {8019}{}{that there was something big and fast seen near our}
 {8020}{}{camp last night.  I'll be checking it out personally }
-{8021}{}{at 0600 hours tomorrow morning. Over.}
+{8021}{}{at 0600 jam tomorrow morning. Over.}
 {8022}{}{**END-PAR**}
 # -
 {8023}{}{Message received: Copy. We'll be awaiting your report.}
@@ -620,7 +620,7 @@
 
 
 # *** Military Base Disk***
-{9000}{}{• Oct 10, 2077}
+{9000}{}{ï¿½ Oct 10, 2077}
 {9001}{}{I, Roger Maxson, Captain, serial number 072389 have}
 {9002}{}{started this log because it doesn't look good for any of}
 {9003}{}{us, and I'd like for people to know what really happened}
@@ -636,7 +636,7 @@
 {9012}{}{this place sinks into an anarchistic bloodbath.}
 {9013}{}{**END-PAR**}
 # -
-{9014}{}{• Oct. 12 2077}
+{9014}{}{ï¿½ Oct. 12 2077}
 {9015}{}{Every time we get a report from higher up things get}
 {9016}{}{worse here. The war is going in a very bad direction and}
 {9017}{}{this place is about to go into full mutiny, with all the}
@@ -645,7 +645,7 @@
 {9020}{}{them to find out what their orders were.}
 {9021}{}{**END-PAR**}
 # -
-{9022}{}{• Oct.13 2077 }
+{9022}{}{ï¿½ Oct.13 2077 }
 {9023}{}{I killed a man today. I was interrogating Chief}
 {9024}{}{Scientist Anderson and he was giving me the full details}
 {9025}{}{of their inhuman experiments. He said his orders came}
@@ -656,7 +656,7 @@
 {9030}{}{men, but I'm not so sure.}
 {9031}{}{**END-PAR**}
 # -
-{9032}{}{• Oct.15 2077}
+{9032}{}{ï¿½ Oct.15 2077}
 {9033}{}{I tried again to speak to the colonel through the door, }
 {9034}{}{but he seems to have completely lost touch with reality.}
 {9035}{}{I broke down the door with several of the men just in }
@@ -664,7 +664,7 @@
 {9037}{}{pulled the trigger he said he was sorry.}
 {9038}{}{**END-PAR**}
 # -
-{9039}{}{• Oct. 18 2077}
+{9039}{}{ï¿½ Oct. 18 2077}
 {9040}{}{By killing the egghead, I seem to have confirmed my }
 {9041}{}{position as leader of the men. They follow me without }
 {9042}{}{question now. The interrogations invariably end up being}
@@ -676,7 +676,7 @@
 {9048}{}{reasons for executing the scientists.}
 {9049}{}{**END-PAR**}
 # -
-{9050}{}{• Oct.20 2077}
+{9050}{}{ï¿½ Oct.20 2077}
 {9051}{}{I finally replied to the outside world over our radio.}
 {9052}{}{I don't know why they never sent anyone here to see}
 {9053}{}{what was happening when we stopped responding to their}
@@ -685,14 +685,14 @@
 {9056}{}{Jefferson Davis, eat your heart out.}
 {9057}{}{**END-PAR**}
 # -
-{9058}{}{• Oct.22 2077}
+{9058}{}{ï¿½ Oct.22 2077}
 {9059}{}{What the hell is going on? We declare ourselves to be in}
 {9060}{}{full desertion from the army and no longer under the}
 {9061}{}{Government's command and what happens? Nothing.}
 {9062}{}{Something bad is coming down.}
 {9063}{}{**END-PAR**}
 # -
-{9064}{}{• Oct. 23 2077}
+{9064}{}{ï¿½ Oct. 23 2077}
 {9065}{}{I can't believe those bastards finally did it. Damn them}
 {9066}{}{all to hell. They finally let the A-bombs fly. We were }
 {9067}{}{right in the middle of trying to pry the real story out }
@@ -706,7 +706,7 @@
 {9075}{}{this area.}
 {9076}{}{**END-PAR**}
 # -
-{9077}{}{• Oct. 25 2077}
+{9077}{}{ï¿½ Oct. 25 2077}
 {9078}{}{Sgt. Platner volunteered to go outside today to take }
 {9079}{}{specific readings on the atmosphere. It seems the }
 {9080}{}{radiation has not spread this far. Since he was wearing }
@@ -716,7 +716,7 @@
 {9084}{}{facilities here.}
 {9085}{}{**END-PAR**}
 # -
-{9086}{}{• Oct. 26 2077}
+{9086}{}{ï¿½ Oct. 26 2077}
 {9087}{}{I convinced the men that we should bury the scientists. }
 {9088}{}{I don't know why... perhaps it was to ease my conscience.}
 {9089}{}{I finally started to believe their stories when the last }
@@ -726,11 +726,11 @@
 {9092}{}{My God, what have I become? }
 {9093}{}{**END-PAR**}
 # -
-{9094}{}{• Oct. 27 2077}
+{9094}{}{ï¿½ Oct. 27 2077}
 {9095}{}{We're leaving this godforsaken place today. I'm leading }
 {9096}{}{the exodus to the old government bunker at Lost Hills. }
 {9097}{}{I'm leaving this log behind to be buried when this place}
-{9098}{}{goes in the next exchange. Who knows, maybe someone}
+{9098}{}{goes in the next exchatge. Who knows, maybe someone}
 {9099}{}{will find it someday.....}
 {9100}{}{**END-DISK**}
 
@@ -899,13 +899,13 @@
 {12056}{}{They actually become smarter and more aware of their}
 {12057}{}{surroundings. I dipped a dog and a rat at the same}
 {12058}{}{time today, and they were fused together. It's not}
-{12059}{}{quite two creatures anymore, but it's more than one.}
+{12059}{}{quite two creatures anymore, but it's more that one.}
 {12060}{}{Perhaps this is the future - a coming together of}
 {12061}{}{different creatures in some sort of harmonious unity.}
 {12062}{}{I no longer consume the different animals I create}
 {12063}{}{simply for sustenance - I have become the instrument}
 {12064}{}{through which unity will be achieved. I am so much}
-{12065}{}{more than a human being now.}
+{12065}{}{more that a human being now.}
 {12066}{}{**END-PAR**}
 # -
 {12067}{}{                                                    0135 - 0139}
@@ -966,7 +966,7 @@
 {12116}{}{**END-DISK**}
 
 # *** Captain Maxson's Diary ***
-{13000}{}{• Oct 10, 2077}
+{13000}{}{ï¿½ Oct 10, 2077}
 {13001}{}{I, Roger Maxson, Captain, serial number 072389 have}
 {13002}{}{started this log because it doesn't look good for any}
 {13003}{}{of us, and I'd like for people to know what really}
@@ -980,7 +980,7 @@
 {13011}{}{anarchistic bloodbath.}
 {13012}{}{**END-PAR**}
 # -
-{13013}{}{• Oct. 12 2077}
+{13013}{}{ï¿½ Oct. 12 2077}
 {13014}{}{Every time we get a report from higher up things get}
 {13015}{}{worse here. The war is going in a very bad direction}
 {13016}{}{and this place is about to go into full mutiny, with all}
@@ -989,7 +989,7 @@
 {13019}{}{interrogate them to find out what their orders were.}
 {13020}{}{**END-PAR**}
 # -
-{13021}{}{• Oct.13 2077}
+{13021}{}{ï¿½ Oct.13 2077}
 {13022}{}{I killed a man today. I was interrogating  chief scientist}
 {13023}{}{Anderson  and he was giving me the full details of their}
 {13024}{}{inhuman experiments. He said his orders came from the}
@@ -999,7 +999,7 @@
 {13028}{}{causing a full mutiny among the men, but I'm not so sure.}
 {13029}{}{**END-PAR**}
 # -
-{13030}{}{• Oct.15 2077}
+{13030}{}{ï¿½ Oct.15 2077}
 {13031}{}{I tried again to speak to the colonel through the door,}
 {13032}{}{but he seems to have completely lost touch with reality.}
 {13033}{}{I broke down the door with several of the men just in}
@@ -1007,7 +1007,7 @@
 {13035}{}{pulled the trigger he said he was sorry.}
 {13036}{}{**END-PAR**}
 # -
-{13037}{}{• Oct. 18 2077}
+{13037}{}{ï¿½ Oct. 18 2077}
 {13038}{}{By killing the egghead, I seem to have confirmed my}
 {13039}{}{position as leader of the men. They follow me without}
 {13040}{}{question now. The interrogations invariably end up being}
@@ -1019,7 +1019,7 @@
 {13046}{}{about my reasons for executing the scientists.}
 {13047}{}{**END-PAR**}
 # -
-{13048}{}{• Oct.20 2077}
+{13048}{}{ï¿½ Oct.20 2077}
 {13049}{}{I finally replied to the outside world over our radio.}
 {13050}{}{I don't know why they never sent anyone here to see}
 {13051}{}{what was happening when we stopped responding to}
@@ -1029,14 +1029,14 @@
 {13055}{}{will history say about me?}
 {13056}{}{**END-PAR**}
 # -
-{13057}{}{• Oct.22 2077}
+{13057}{}{ï¿½ Oct.22 2077}
 {13058}{}{What the hell is going on? We declare ourselves to be}
 {13059}{}{in full desertion from the army and no longer under the}
 {13060}{}{Government's command and what happens? Nothing.}
 {13061}{}{Something bad is coming down.}
 {13062}{}{**END-PAR**}
 # -
-{13063}{}{• Oct. 23 2077}
+{13063}{}{ï¿½ Oct. 23 2077}
 {13064}{}{I can't believe those bastards finally did it. Damn them}
 {13065}{}{all to hell. They finally let the A-Bombs fly. We were}
 {13066}{}{right in the middle of trying to pry the real story out}
@@ -1050,7 +1050,7 @@
 {13074}{}{reached this area.}
 {13075}{}{**END-PAR**}
 # -
-{13076}{}{• Oct. 25 2077}
+{13076}{}{ï¿½ Oct. 25 2077}
 {13077}{}{Sgt. Platner volunteered to go outside today to take}
 {13078}{}{specific readings on the atmosphere. It seems the}
 {13079}{}{radiation has not spread this far. Since he was wearing}
@@ -1060,18 +1060,18 @@
 {13083}{}{facilities here.}
 {13084}{}{**END-PAR**}
 # -
-{13085}{}{• Oct. 26 2077}
+{13085}{}{ï¿½ Oct. 26 2077}
 {13086}{}{I convinced the men that we should bury the scientists.}
 {13087}{}{I don't know why... perhaps it was to ease my conscience.}
 {13088}{}{I finally started to believe their stories when the last}
 {13089}{}{one was dying. My God, what have I become?}
 {13090}{}{**END-PAR**}
 # -
-{13091}{}{• Oct. 27 2077}
+{13091}{}{ï¿½ Oct. 27 2077}
 {13092}{}{We're leaving this godforsaken place today. I'm leading}
 {13093}{}{the exodus to the old government bunker at Lost Hills.}
 {13094}{}{I'm leaving this log behind to be buried when this place}
-{13095}{}{goes in the next exchange. Who knows, maybe someone}
+{13095}{}{goes in the next exchatge. Who knows, maybe someone}
 {13096}{}{will find it someday.....}
 {13097}{}{**END-DISK**}
 
@@ -1226,7 +1226,7 @@
 {17031}{}{were to become tainted, remote even though it may be,}
 {17032}{}{Vault 13 has been fitted with the government approved}
 {17033}{}{Vault Water Purification System.  Rated to work without}
-{17034}{}{significant loss of output for over 250,000 hours,}
+{17034}{}{significant loss of output for over 250,000 jam,}
 {17035}{}{prospective Vault Dwellers should  have nothing to fear.}
 {17036}{}{**END-PAR**}
 #

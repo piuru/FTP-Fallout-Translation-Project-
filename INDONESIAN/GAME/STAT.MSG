@@ -48,39 +48,39 @@
 # @ Basic stats @
 #
 # Strength
-{200}{}{Raw physical strength. A high Strength is good for physical characters. Modifies: Hit Points, Melee Damage, and Carry Weight.}
+{200}{}{Kekuatan fisik alami. Strength yang tinggi bagus untuk karakter berbasis fisik. Mengubah: Hit Points, Melee Damage, and Carry Weight.}
 # Perception
-{201}{}{The ability to see, hear, taste and notice unusual things. A high Perception is important for a sharpshooter.  Modifies: Sequence and ranged combat distance modifiers.}
+{201}{}{Kemampuan untuk melihat, mendengar, merasa dan menyadari hal yang tak biasa. Perception yang tinggi sangat penting untuk seorang penembak jitu.  Mengubah: Sequence dan batas tempur jarak jauh.}
 # Endurance
-{202}{}{Stamina and physical toughness. A character with a high Endurance will survive where others may not. Modifies: Hit Points, Poison & Radiation Resistance, Healing Rate, and the additional hit points per level.}
+{202}{}{Stamina dan ketangkasan fisik. Karakter dengan Endurance yang tinggi akan mampu bertahan di situasi di mana yang lain tidak mampu. Mengubah: HP, Poison & Radiation Resistance, Healing Rate, dan tambahan hit points per level.}
 # Charisma
-{203}{}{A combination of appearance and charm. A high Charisma is important for characters that want to influence people with words. Modifies: NPC reactions, and barter prices.}
+{203}{}{Kombinasi antara penampilan dan pesona. Charisma yang tinggi penting untuk karakter yang ingin mempengaruhi orang dengan kata-kata. Mengubah: reaksi NPC, dan harga barter.}
 # Intelligence
-{204}{}{Knowledge, wisdom and the ability to think quickly. A high Intelligence is important for any character. Modifies: the number of new skill points per level, dialogue options, and many skills.}
+{204}{}{Ilmu, kebijaksanaan dan kemampuan untuk berpikir dengan cepat. Intelligence yang tinggi penting bagi semua karakter. Mengubah: jumlah skill points per level, pilihan dialog, dan banyak skills.}
 # Agility
-{205}{}{Coordination and the ability to move well. A high Agility is important for any active character. Modifies: Action Points, Armor Class, Sequence, and many skills.}
+{205}{}{Koordinasi dan kemampuan untuk bergerak dengan baik. Agility yang tinggi penting untuk semua karakter yang aktif. Mengubah: Action Points, Armor Class, Sequence, dan banyak skills.}
 # Luck
-{206}{}{Fate. Karma. An extremely high or low Luck will affect the character - somehow. Events and situations will be changed by how lucky (or unlucky) your character is.}
+{206}{}{Takdir. Karma. Tinggi atau rendahnya Luck akan mempengaruhi karakter - dalam banyak cara. Kejadian dan situasi akan berubah tergantung seberapa beruntung (atau sial) nya karaktermu.}
 #
 # Derived/Non Derived stats
 #
 # Maximum Hit Points
-{207}{}{How much damage your character can take before dying.  If you reach 0 HP or less, you are dead.}
+{207}{}{Berapa banyak cedera yang bisa diterima karaktermu sebelum sekarat.  Jika sampai 0 HP atau kurang, kau akan mati.}
 # Maximum Action Points
-{208}{}{The number of actions that the character can take during one combat turn.}
+{208}{}{Banyaknya aksi yang karaktermu bisa lakukan dalam satu giliran serangan.}
 # Armor Class
-{209}{}{Modifies the chance to hit this particular character.}
+{209}{}{Peluang untuk bisa melukai satu karakter tertentu. Semakin rendah maka akan semakin mudah untuk melukai karakter tersebut.}
 # Unarmed Damage
-{210}{}{The amount of bonus damage your character does in hand-to-hand combat.}
-{211}{}{The amount of bonus damage your character does in hand-to-hand combat.}
+{210}{}{Jumlah bonus kerusakan yang karaktermu berikan saat pertarungan hand-to-hand.}
+{211}{}{Jumlah bonus kerusakan yang karaktermu berikan saat pertarungan hand-to-hand.}
 # Carry Weight
-{212}{}{The maximum amount of equipment your character can carry, in pounds.}
+{212}{}{Jumlah maksimum peralatan yang karaktermu bisa bawa, dalam pounds.}
 # Sequence
-{213}{}{Determines how soon in a combat turn your character can react.}
+{213}{}{Menentukan seberapa cepat karaktermu bisa bereaksi dalam satu giliran serangan.}
 # Healing Rate
-{214}{}{At the end of each day, your character will heal 1 HP for each point of Healing Rate.  When you rest, you heal every six hours.}
+{214}{}{Ketika hari berakhir, karaktermu akan memulihkan 1 HP untuk setiap poin Healing Rate.  Saat istirahat, kau akan pulih setiap enam jam.}
 # Critical Chance
-{215}{}{The chance to cause a critical hit in combat is increased by this amount.}
+{215}{}{Peluang untuk menimbulkan critical hit dalam serangan akan meningkat dipengaruhi nilai ini.}
 {216}{}{Better Criticals}
 {217}{}{Damage Threshold}
 {218}{}{Damage Threshold Laser}
@@ -90,7 +90,7 @@
 {222}{}{Damage Threshold EMP}
 {223}{}{Damage Threshold Explosion}
 # Damage Resistance
-{224}{}{Any damage taken is reduced by this amount. Damage Resistance can be increased by wearing armor.}
+{224}{}{Semua serangan yang diterima akan dikurangi nilai ini. Damage Resistance bisa ditingkatkan dengan memakai armor.}
 {225}{}{Damage Resistance Laser}
 {226}{}{Damage Resistance Fire}
 {227}{}{Damage Resistance Plasma}
@@ -98,9 +98,9 @@
 {229}{}{Damage Resistance EMP}
 {230}{}{Damage Resistance Explosion}
 # Radiation Resistance
-{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation chems.}
+{231}{}{Jumlah paparan radiasi yang mengenaimu akan dikurangi nilai ini. Radiation Resistance juga bisa dipengaruhi oleh armor yang kau pakai, dan obat anti-radiasi.}
 # Poison Resistance
-{232}{}{Reduces poison damage by this amount.}
+{232}{}{Nilai ini mengurangi bahaya terkena racun.}
 {233}{}{Age}
 {234}{}{Gender}
 {235}{}{Current Hit Points}
@@ -144,4 +144,4 @@
 #
 #  Experience-gain messages
 #
-{600}{}{You have gone up a level.}
+{600}{}{Kau berhasil naik level.}

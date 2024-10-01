@@ -20,14 +20,14 @@
 {16}{}{Rng:}
 {17}{}{Ammo:}
 {18}{}{(Not worn)}
-{19}{}{You don't have enough action points to use inventory.}
+{19}{}{Kau tak punya cukup action points untuk menggunakan inventory.}
 {20}{}{Total Wt:}
 {21}{}{MOVE ITEMS}
 {22}{}{ALL}
 {23}{}{SET TIMER}
 {24}{}{Unarmed dmg:}
-{25}{}{You cannot pick that up. You are at your maximum weight capacity.}
-{26}{}{There is no space left for that item.}
-{27}{}{OK, that's a good trade.}
-{28}{}{No, your offer is not good enough.}
-{29}{}{You gain %d experience points for successfully using your Steal skill.}
+{25}{}{Kau tidak bisa mengambil itu. Kapasitas berat sudah maksimum.}
+{26}{}{Tidak ada tempat tersisa untuk item itu.}
+{27}{}{OK, itu pertukaran yang bagus.}
+{28}{}{Tidak, tawaranmu tidak cukup bagus.}
+{29}{}{Kau memperoleh %d exp points karena sukses menggunakan skill Steal.}

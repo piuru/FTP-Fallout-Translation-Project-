@@ -72,7 +72,7 @@
 #   PERK DESCRIPTIONS
 #
 {201}{}{You are more likely to notice details about people.  Awareness will give more detailed information about them when you perform an Examine.}
-{202}{}{You have learned the secret arts of the East, or you just punch faster.  In any case, your Hand-to-Hand attacks cost 1 AP less to perform.}
+{202}{}{Kau sudah belajar rahasia beladiri dari Timur, atau cuma memukul lebih cepat.  Bagaimanapun juga, your Hand-to-Hand attacks cost 1 AP less to perform.}
 {203}{}{Experience in unarmed combat has given you the edge when it comes to damage.  You cause +2 points of damage with hand-to-hand and melee attacks for each level of this Perk.}
 {204}{}{For each level of Bonus Move, you get 2 free APs each turn that can only be used for movement.  In other words, you can move 2 free hexes each turn for each level of this Perk.}
 {205}{}{Your training in firearms and other ranged weapons has made you more deadly in ranged combat.  For each level of this Perk, you do +2 points of damage with ranged weapons.}
